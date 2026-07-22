@@ -1,11 +1,11 @@
-# Univent - University Event & Workshop Management System 🎓✨
+# Univent - University Event & Workshop Management System 
 
 
 **Univent** is a centralized, web-based platform designed to simplify and automate university event and workshop management. It bridges the gap between students, event organizers, and university administrators by streamlining event creation, approvals, registration, and attendance tracking.
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 Universities host numerous events, but managing them manually can be highly inefficient. **Univent** solves this by providing a unified ecosystem where:
 *   **Students:** Can easily browse active events, filter categories, and securely register for seats.
@@ -14,7 +14,7 @@ Universities host numerous events, but managing them manually can be highly inef
 
 ---
 
-## ⚙️ System Requirements
+##  System Requirements
 
 ### 1. Functional Requirements (FR)
 The system satisfies specific requirements partitioned by user roles and core system processes:
@@ -56,14 +56,14 @@ The system operates within strict engineering constraints to ensure optimal oper
 
 ---
 
-## 🛠️ Software Development Lifecycle (SDLC)
+##  Software Development Lifecycle (SDLC)
 
 Project development is driven by the **Incremental Process Model**. 
 This model was selected because it allows the system to be built and delivered in independent, manageable segments (increments). 
 
 ---
 
-## 🏗️ System Architecture (MVC)
+##  System Architecture (MVC)
 
 The system adheres to the **Model-View-Controller (MVC)** architectural pattern to decouple data logic from user interfaces:
 
@@ -74,7 +74,7 @@ The system adheres to the **Model-View-Controller (MVC)** architectural pattern 
 
 ---
 
-## 🗺️ Architectural Diagrams & Design Models
+##  Architectural Diagrams & Design Models
 
 ### 1. High-Level System Scope
 *   **Class Diagram:** Maps the static structure of the platform, defining essential entities such as Users, Profiles, and Accommodation Listings.
